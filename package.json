@@ -1,0 +1,15 @@
+{
+  "name": "voltwatch-app",
+  "version": "1.0.0",
+  "description": "voltwatch electron app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joel Steven",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^24.1.3"
+  }
+}
